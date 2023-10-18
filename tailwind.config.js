@@ -5,8 +5,9 @@ export default {
     extend: {
       fontFamily: {
         sora: ['"Sora"', "sans-serif"],
-        mplus: ['"M PLUS Rounded 1c"', "sans-serif"],
-        figtree: ['"Figtree"', "sans-serif"],
+        manrope: ['"Manrope"', "sans-serif"],
+        // mplus: ['"M PLUS Rounded 1c"', "sans-serif"],
+        // figtree: ['"Figtree"', "sans-serif"],
       },
       colors: {
         primary: "#6d6d6d",
