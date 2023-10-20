@@ -12,7 +12,7 @@ const Icons = () => {
     >
       <div className="flex justify-center items-center gap-x-3 mt-7">
         <div className="bg-white border-primary border  rounded-full p-2 hover:shadow-xl">
-          <a href="https://github.com/ervinarviandi">
+          <a href="https://github.com/ervinarviandi" aria-label="github link">
             <AiFillGithub className="text-2xl text-black" />
           </a>
         </div>
@@ -25,12 +25,12 @@ const Icons = () => {
           </a>
         </div>
         <div className="bg-white border-primary border  rounded-full p-2 hover:shadow-xl">
-          <a href="https://www.threads.net/@ervinarviandi">
+          <a href="https://www.threads.net/@ervinarviandi" aria-label="threads link">
             <FaThreads className="text-2xl text-black" />
           </a>
         </div>
         <div className="bg-white border-primary border  rounded-full p-2 hover:shadow-xl">
-          <a href="">
+          <a href="" aria-label="gitbook link">
             <SiGitbook className="text-2xl text-black" />
           </a>
         </div>

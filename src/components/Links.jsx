@@ -12,7 +12,7 @@ const Links = () => {
       <div>
         <div className="grid md:grid-cols-2 gap-5 mt-4">
           <div className="flex flex-col">
-            <a href="https://ervinarvian.vercel.app/">
+            <a href="https://ervinarvian.vercel.app/" aria-label="right icons">
               <div className="border-2 border-gray-200 p-4 rounded-lg relative hover:bg-gradient-to-r from-green-200 to-purple-300 duration-300 ease-in">
                 <div className="flex  items-center gap-x-3">
                   <BiPin className="text-gray-400 text-lg" />
@@ -38,7 +38,7 @@ const Links = () => {
             </a>
           </div>
           <div className="flex flex-col">
-            <a href="">
+            <a href="https://trakteer.id/ervinarviandi" aria-label="trakteer link">
               <div className="border-2 border-gray-200 p-4 rounded-lg relative  hover:bg-gradient-to-r from-green-200 to-purple-300 duration-300 ease-in">
                 <div className="flex  items-center gap-x-3">
                   <BiCoffee className="text-gray-400 text-lg" />

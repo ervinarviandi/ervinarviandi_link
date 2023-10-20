@@ -1,4 +1,4 @@
-import Logo from "/avatar-ervin.png";
+import Logo from "/avatar-ervin.webp";
 import "animate.css";
 import Tippy from "@tippyjs/react";
 import "tippy.js/dist/tippy.css"; // optional
@@ -17,7 +17,7 @@ const Header = () => {
       </div>
       <div className="mt-4">
         <h1 className="font-manrope text-center font-semibold text-2xl text-black mb-3">Ervin Arviandi</h1>
-        <span className="font-manrope text-md text-secondary flex justify-center">Dompu, Indonesia . he/him</span>
+        <span className="font-manrope text-md text-gray-600 flex justify-center">Dompu, Indonesia . he/him</span>
         <p className="font-manrope text-lg text-center text-primary mt-4">Seasoned software engineer especially in frontend side, with a passion for creating pixel-perfect web experiences.</p>
       </div>
     </div>
