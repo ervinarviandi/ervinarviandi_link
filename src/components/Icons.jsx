@@ -20,6 +20,7 @@ const Icons = () => {
           <a
             href="instagram.com/ervinarviandi       
           "
+            aria-label="instagram link"
           >
             <AiOutlineInstagram className="text-2xl text-black" />
           </a>
@@ -30,7 +31,7 @@ const Icons = () => {
           </a>
         </div>
         <div className="bg-white border-primary border  rounded-full p-2 hover:shadow-xl">
-          <a href="" aria-label="gitbook link">
+          <a href="https://app.gitbook.com/o/vXWd1hsKDlQ1x5wo7ASa/s/AoqsT3g63kOfLrnoT3nF/untitled/astro-introduction" aria-label="gitbook link">
             <SiGitbook className="text-2xl text-black" />
           </a>
         </div>
