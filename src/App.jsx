@@ -13,7 +13,7 @@ function App() {
   return (
     <>
       <main className=" w-full bg-white md:py-4 ">
-        <section className="max-w-2xl mx-auto px-4 md:border-2 md:rounded-lg md:shadow-lg bg-[#F3FCF7]">
+        <section className="max-w-2xl mx-auto px-4 md:border-2 md:rounded-lg md:shadow-lg bg-[#f6f6ef]">
           <Header />
           <Icons />
           <Links />

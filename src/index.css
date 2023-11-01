@@ -30,6 +30,8 @@ body {
 
 .tippy-box[data-theme~="tomato"] {
   /* background-color: #b5d43c; */
-  background-image: linear-gradient(to right, #f1c9ec, #ab84cb);
-  color: #f8ed4c;
+  /* background-image: linear-gradient(to right, #f1c9ec, #ab84cb); */
+  background-color: #7dd3fc;
+  /* color: #f8ed4c; */
+  color: white;
 }

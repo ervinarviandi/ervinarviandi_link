@@ -9,7 +9,7 @@ const Header = () => {
   return (
     <div className="">
       <div className="flex justify-center  ">
-        <div className="bg-gradient-to-r from-pink-200 to-purple-400 rounded-full mt-10 overflow-hidden">
+        <div className="bg-gradient-to-r from-[#d3f26a] to-sky-200 rounded-full mt-10 overflow-hidden">
           <Tippy className="font-manrope font-bold animate__animated animate__rubberBand tippy-box" content="Hy 👋 i&#39;m ervin" theme="tomato" animation="scale-extreme" placement="top-start" duration={(0, 1000)}>
             <img src={Logo} width={120} height={120} alt="profile" className=" hover:scale-125 duration-300 cursor-pointer " />
           </Tippy>
